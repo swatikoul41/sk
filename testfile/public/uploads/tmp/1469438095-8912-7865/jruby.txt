@@ -1,0 +1,6 @@
+1. Read ruby and rails framework from tutorials point.
+
+2. Helped in resolving the issues which i faced during installation of softwares.
+3. Created a simple project using the basics of ruby.
+4. Read advanced topics through ruby guides.
+5. Created a dummy project BLOG, using mvc structure,database,associations,authentication and stylesheets.
